@@ -17,17 +17,21 @@ Dado o array de IDs, que contém muitos inteiros duplicados e um inteiro único,
 
 ## Desafio:
 
-- Crie uma listagem e uma página de detalhe para visualização da locação;
+- Criar uma listagem e uma página de detalhe para visualização da locação;
+- Criar um REST CRUD (create, read, update, delete) para locação;
 
 ### Requisitos:
 
 - Utilizar React
+- Utilizar Nodejs
 - Projeto deve estar no seu github
 - README (como rodar o projeto)
 
 ### Extra: 
 
-- Implementar em React Native
+- Implementar com React Native
 - Usar [storybook](https://storybook.js.org/) ou [Docz](https://www.docz.site/) para os componentes.
 - Criar testes para os componentes com [Jest](https://jestjs.io/)
+- Design
+- Fastlane
 
