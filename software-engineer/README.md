@@ -18,12 +18,10 @@ Dado o array de IDs, que contém muitos inteiros duplicados e um inteiro único,
 ## Desafio:
 
 - Criar uma listagem e uma página de detalhe para visualização da locação;
-- Criar um REST CRUD (create, read, update, delete) para locação;
 
 ### Requisitos:
 
 - Utilizar React
-- Utilizar Nodejs
 - Projeto deve estar no seu github
 - README (como rodar o projeto)
 
