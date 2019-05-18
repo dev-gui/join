@@ -25,3 +25,11 @@ Em uma empresa de locação de carros recém inaugurada, para cada locação é 
 - Criar testes com [Jest](https://jestjs.io/);
 - Adicionar authenticação;
 - Exportar collection no Postman;
+
+#### Instruções de uso:
+
+- Criar um banco de dados no Postgres
+- Definir as configurações do banco de dados no arquivo .env do diretório principal
+- Criar um usuário no Postman (id do usuário já está definido para facilitar o teste)
+- Criar um veículo no Postman ( id do veículo já está definido para facilitar o teste)
+- Criar uma locação ( id da locação já está definido para faciliar o teste)
